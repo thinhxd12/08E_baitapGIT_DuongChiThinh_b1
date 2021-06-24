@@ -29,3 +29,9 @@ function testCompleted(){
 }
 
 testCompleted();
+
+function doneTask(){
+    console.log('doneTask');
+}
+
+doneTask();
